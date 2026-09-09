@@ -16,8 +16,9 @@ def sort_downloads():
         "Bilder": [".jpg", ".jpeg", ".png", ".gif", ".svg", ".bmp", ".webp"],
         "Dokumente": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".csv"],
         "Archive": [".zip", ".rar", ".7z", ".tar", ".gz"],
+        "Creative": [".psd", ".xfc", ".af", ".afdesign", ".afpub", ".afphoto"],
         "Audio": [".mp3", ".wav", ".aac", ".flac"],
-        "Video": [".mp4", ".mov", ".avi", ".mkv"],
+        "Video": [".mp4", ".mov", ".avi", ".mkv", ".webm", ".m4a"],
         "Programme": [".exe", ".msi", ".dmg", ".pkg", ".deb", ".sh", ".apk"]
     }
 
